@@ -6,6 +6,6 @@ Tällaiselta näyttää aivan normaali teksti, mutta jos tekstiä halutaan muoka
 
 * *kursivoida*
 * **boldata**
-**boldattu**
+* **boldattu**
     * __boldata toisella tavalla__
-*    __yhdistää **boldausta** tai *kursivointia*__
+    *  __yhdistää **boldausta** tai *kursivointia*__
