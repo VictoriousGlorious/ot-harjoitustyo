@@ -6,9 +6,12 @@
 * [komentorivi.txt](https://github.com/VictoriousGlorious/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 * [gitlog.txt](https://github.com/VictoriousGlorious/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
+###### Pientä harjoittelua
+
 Tällaiselta näyttää aivan normaali teksti, mutta jos tekstiä halutaan muokata, voidaan
 
 * *kursivoida*
 * **boldata**
-    * __boldata toisella tavalla__
-    *  __yhdistää **boldausta** ja *kursivointia*__
+* yhdistää **boldausta** ja *kursivointia*
+
+
