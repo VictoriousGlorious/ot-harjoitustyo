@@ -1,18 +1,5 @@
-# Ohjelmistotekniikan harjoitustyö
-## Tehtävät
-### Viikko 1
+# Budjetointisovellus
 
-
-* [komentorivi.txt](https://github.com/VictoriousGlorious/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
-* [gitlog.txt](https://github.com/VictoriousGlorious/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
-
-###### Pientä harjoittelua
-
-Tällaiselta näyttää aivan normaali teksti, mutta jos tekstiä halutaan muokata, voidaan
-
-* *kursivoida*
-* **boldata**
-* yhdistää **boldausta** ja *kursivointia*
-
-
-TÄMÄ ON MUUTOS.
+### Dokumentaatio
+* [Alustava määrittelyvaatimus](https://github.com/VictoriousGlorious/ot-harjoitustyo/blob/master/Alustavam%C3%A4%C3%A4rittelyvaatimus.md)
+* [Työaikakirjanpito]()
