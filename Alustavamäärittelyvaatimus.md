@@ -4,7 +4,7 @@
 
 #### Tarkoituksena on ohjelmoida budjetointisovellus, johon käyttäjä voi tallettaa tulojaan ja menojaan ja esimerkiksi tarkastella niistä laadittuja yhteenvetoja.
 
-###### Käyttäjäroolit
+##### Käyttäjäroolit
 
 * Tavallinen käyttäjä
     * voi luoda käyttäjätunnuksen
@@ -16,12 +16,12 @@
 * Ylläpitäjä
     * voi poistaa normaalin käyttäjätunnukse
 
-###### Toimintaympäristön rajoitteet
+##### Toimintaympäristön rajoitteet
 
 * Ohjelmiston tulee toimia komentoriviltä suoritettuna Linux-ja Cubbli-Linux-järjestelmissä
 * Käyttäjien omat ja syöttämät tiedot talletetaan paikallisen koneen levylle
 
-###### Käyttöliittymä
+##### Käyttöliittymä
 
 Sovellukseen pyritään rakentamaan yksinkertainen graafinen käyttöliittymä
 
