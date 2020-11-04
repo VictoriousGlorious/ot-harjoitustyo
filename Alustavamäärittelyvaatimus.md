@@ -10,11 +10,17 @@
     * voi luoda käyttäjätunnuksen
     * voi kirjautua järjestelmään
     * voi syöttää tulonsa ja menonsa ohjelmaan
-    * voi tarkastella esim. kuukausittaisia menojaan tai kululuokkia, joihin rahaa on mennyt
-    * voi laatia jonkinlaisia yhteenvetoja kulutuksestaan tietyllä aikavälillä
+    * voi tarkastella menojaan ja tulojaan ja niistä laadittuja yhteenvetoja
 
 * Ylläpitäjä
-    * voi poistaa normaalin käyttäjätunnukse
+    * voi poistaa normaalin käyttäjätunnuksen
+
+##### Toiminnallisuudet
+
+* Sovellukseen voi syöttää tulonsa ja menonsa päivämääräkohtaisesti
+* Menoihin voi lisätä kulukohteen, esim. ruoka, vaatteet tms.
+* Tietyn aikavälin keskikulutus on laskettavissa
+* On mahdollista tarkastella, mihin kulukohteeseen rahaa on kulunut minkäkin verran
 
 ##### Toimintaympäristön rajoitteet
 
