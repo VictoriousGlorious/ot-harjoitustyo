@@ -17,6 +17,7 @@ public class Budget {
         this.goal = goal;
         this.start = start;
         this.end = end;
+        this.saved = 0;
     }
     
     public void save(double amount) {
@@ -35,7 +36,7 @@ public class Budget {
     
     @Override
     public String toString() {
-        return this.name + ":\n goal: " + this.goal + "\n saved: " + this.saved;
+        return this.name + ", tavoite: " + this.goal + ", säästöaika: " + this.start + "-" + this.end + ", säästetty: " + this.saved;
     }
     
 }

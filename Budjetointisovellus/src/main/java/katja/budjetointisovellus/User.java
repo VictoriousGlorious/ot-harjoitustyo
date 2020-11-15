@@ -13,6 +13,8 @@ public class User {
         this.id = id;
         this.password = password;
         this.transactions = new ArrayList<>();
+        this.budgets = new ArrayList<>();
+        // this.transactions.add(new Transaction(TransactionType.INCOME, 20.0, '2', Date));
     }
     
     public String getId() {
@@ -35,12 +37,12 @@ public class User {
         return this.budgets.size();
     }
     
-    public void getTrancsactions() {
-        transactions.stream().forEach(System.out::println);
+    public ArrayList<Transaction> getTrancsactions() {
+        return this.transactions;
     }
     
-    public void getBudgets() {
-        budgets.stream().forEach(System.out::println);
+    public ArrayList<Budget> getBudgets() {
+        return this.budgets;
     }
     
     @Override

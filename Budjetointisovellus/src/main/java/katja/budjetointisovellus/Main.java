@@ -7,9 +7,9 @@ public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        AppLogic app = new AppLogic(scanner);
-        app.start();
-        app.actions();
-
+        AppLogic app = new AppLogic();
+        UserInterface ui = new UserInterface(scanner, app);
+        ui.start();
+       
     }
 }

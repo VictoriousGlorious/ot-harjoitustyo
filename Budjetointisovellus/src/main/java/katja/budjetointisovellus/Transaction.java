@@ -3,20 +3,24 @@ package katja.budjetointisovellus;
 
 import java.util.Date;
 
+enum TransactionType {
+    INCOME, EXPENSE
+}
+
 public class Transaction {
     private double amount;
-    private String type;
+    private TransactionType type;
     private String description;
     private Date date;
     
-    public Transaction(String type, double amount, String description, Date date) {
+    public Transaction(TransactionType type, double amount, String description, Date date) {
         this.type = type;
         this.amount = amount;
         this.description = description;
         this.date = date;        
     }
     
-    public String getType() {
+    public TransactionType getType() {
         return this.type;
     }
     
